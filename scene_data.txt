@@ -1,0 +1,26 @@
+CORNELL BOX DATA
+
+planes:
+	U z=  2.65
+	D z=  0
+	L x= -1.6
+	R x=  1.6
+	B y=  1.4
+
+spheres:
+	c=(-.75, 0.25, .5) r=0.5
+	c=( .75, -0.5, .5) r=0.5
+light: 
+	c=(0,0, 12.65) r=10
+
+
+cam:
+	p=(0, -5.75, 1.75) r=(86, 0, 0) fov=50°
+	1024x768 (a=0.75)
+	512x384
+
+
+left  wall(red) : #b76c73 (183, 108, 115)
+right wall(bleu): #726cb6 (114, 108, 182)
+
+depth: min =3.4u, max=7.6u
